@@ -1,13 +1,12 @@
 <h2 align="left">Hi! My name's Homer, and welcome to my home! 🏠</h2>
 
 <p align="left">
-  I'm a curious human currently disguised as a Computer Science student. I care deeply about how people grow, how machines learn, and what it means to build things that last.
+  I’m a CS student who likes to think a little too much. I enjoy building systems, making sense of chaos, and finding small, meaningful ways to improve how people live and learn.  
   <br><br>
-  My work spans AI, data engineering, and reflective storytelling. I run a project called <strong>BALAI</strong>—a digital space where I mix sharp ideas with emotional intelligence to help young Filipinos think clearer and live better.
+  I’m currently exploring AI, data pipelines, and writing for a small project I call <strong>BALAI</strong>. It’s my way of turning thoughts into tools—something between philosophy, self-help, and tech.  
   <br><br>
-  I write, build, and obsess over how value is created and passed on. Right now, I'm diving deep into machine learning, linear algebra, and knowledge systems. I love learning anything that stretches me—especially if it challenges my perspective.
+  Outside of code, I like digging deep into what makes humans tick. Whether it’s how we think, believe, or break down, I’m always looking for the patterns beneath the noise.
 </p>
-
 ###
 
 <div align="center">
@@ -28,6 +27,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
+
+###
+
+<h3 align="left">📚 Interests</h3>
+
+<ul align="left">
+  <li>Philosophy, especially practical and existential thought</li>
+  <li>Analytical psychology and the human condition</li>
+  <li>History as a mirror for present dilemmas</li>
+  <li>The study of belief systems, meaning, and Faith</li>
+  <li>Learning how to learn—currently diving into machine learning and linear algebra</li>
+</ul>
 
 ###
 
