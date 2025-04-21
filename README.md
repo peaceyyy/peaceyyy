@@ -1,12 +1,10 @@
 <h2 align="left">Hi! My name's Homer, and welcome to my humble GitHub Homepage! 🏠</h2>
 
 <p align="left">
-  I’m a CS student who likes to think a little too much. I enjoy building, learning practically anything, making sense of chaos, and finding small, meaningful ways to improve how people live and progress their lives.  
+  I’m a CS student who likes to think a little too much. I enjoy building that screams order and logic, making sense of chaos in reality, and finding small, meaningful ways to improve how people live and progress their lives.  
   <br><br>
-  I have strong analytical skills from my coding projects and self-directed AI research, along with a systematic way of tackling tricky tech problems. I'm passionate about future-proofing technology and AI ethics, and I love learning about everything from quantum computing to psychology and AI. When I'm not diving into tech, I enjoy fitness, endurance running, and exploring topics like philosophy, neuroscience, history, and writing.
+  I love learning about everything from quantum computing to psychology and AI. When I'm not diving into tech, I enjoy fortifying the vessel that houses my soul (I work out ig), and exploring various topics like philosophy, psychology, history, and religion.
   <br><br>
-  Outside of code, I like digging deep into what makes humans tick. Whether it’s how we think, believe, or break down, I’m always looking for the patterns beneath the noise.
-</p>
 ###
 
 <div align="center">
@@ -37,7 +35,8 @@
   <li>Analytical psychology and the human condition</li>
   <li>History as a mirror for present dilemmas</li>
   <li>The study of belief systems, meaning, and Faith</li>
-  <li>Learning how to learn—currently diving into machine learning and linear algebra</li>
+  <li>Learning how to learn—currently diving into machine learning, Statistics & Probability and linear algebra</li>
+  <li>Competitive Programming</li>
 </ul>
 
 ###
