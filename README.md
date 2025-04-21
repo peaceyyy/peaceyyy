@@ -1,9 +1,9 @@
-<h2 align="left">Hi! My name's Homer, and welcome to my home! 🏠</h2>
+<h2 align="left">Hi! My name's Homer, and welcome to my humble GitHub Homepage! 🏠</h2>
 
 <p align="left">
-  I’m a CS student who likes to think a little too much. I enjoy building systems, making sense of chaos, and finding small, meaningful ways to improve how people live and learn.  
+  I’m a CS student who likes to think a little too much. I enjoy building, learning practically anything, making sense of chaos, and finding small, meaningful ways to improve how people live and progress their lives.  
   <br><br>
-  I’m currently exploring AI, data pipelines, and writing for a small project I call <strong>BALAI</strong>. It’s my way of turning thoughts into tools—something between philosophy, self-help, and tech.  
+  I have strong analytical skills from my coding projects and self-directed AI research, along with a systematic way of tackling tricky tech problems. I'm passionate about future-proofing technology and AI ethics, and I love learning about everything from quantum computing to psychology and AI. When I'm not diving into tech, I enjoy fitness, endurance running, and exploring topics like philosophy, neuroscience, history, and writing.
   <br><br>
   Outside of code, I like digging deep into what makes humans tick. Whether it’s how we think, believe, or break down, I’m always looking for the patterns beneath the noise.
 </p>
@@ -56,6 +56,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/peaceyyy/peaceyyy/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ###
