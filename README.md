@@ -5,8 +5,7 @@
   <br><br>
   I love learning about everything from quantum computing to psychology and AI. When I'm not diving into tech, I enjoy fortifying the vessel that houses my soul (I work out ig), and exploring various topics like philosophy, psychology, history, and religion.
   <br><br>
-###
-
+  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=peaceyyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peaceyyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
