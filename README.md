@@ -1,7 +1,7 @@
 <h2 align="left">Hi! My name's Homer, and welcome to my humble GitHub Homepage! 🏠</h2>
 
 <p align="left">
-  I’m a CS student who likes to think a little too much. I enjoy building that screams order and logic, making sense of chaos in reality, and finding small, meaningful ways to improve how people live and progress their lives.  
+  I’m a CS student who likes to think a little too much. I enjoy building stuff that works, anything that embodies order and logic, making sense of chaos in reality, and finding small, meaningful ways to improve how people live and progress their lives.  
   <br><br>
   I love learning about everything from quantum computing to psychology and AI. When I'm not diving into tech, I enjoy fortifying the vessel that houses my soul (I work out ig), and exploring various topics like philosophy, psychology, history, and religion.
   <br><br>
