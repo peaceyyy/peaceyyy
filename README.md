@@ -32,10 +32,7 @@
 <ul align="left">
   <li>Philosophy, especially practical and existential thought</li>
   <li>Analytical psychology and the human condition</li>
-  <li>History as a mirror for present dilemmas</li>
-  <li>The study of belief systems, meaning, and Faith</li>
   <li>Learning how to learn—currently diving into machine learning, Statistics & Probability and linear algebra</li>
-  <li>Competitive Programming</li>
 </ul>
 
 ###
