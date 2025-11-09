@@ -30,9 +30,17 @@
 <h3 align="left">📚 Interests</h3>
 
 <ul align="left">
-  <li>Philosophy, especially practical and existential thought</li>
-  <li>Analytical psychology and the human condition</li>
-  <li>Learning how to learn—currently diving into machine learning, Statistics & Probability and linear algebra</li>
+  <li>Philosophy</li>
+  <li>Anime</li>
+  <li></li>
+  <li>Learning how to learn so that I can learn the following better—currently diving into: 
+    <ul>
+      <li>Maching Learning</li>
+      <li>AI Engineering (Agentic Development)</li>
+      <li>Linear Algebra</li>
+      <li>Statistics & Probability</li>
+      <li>Somebody please give me a good reason to learn Calculus</li>
+    </ul>
 </ul>
 
 ###
