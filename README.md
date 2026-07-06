@@ -31,10 +31,9 @@
   <li>Learning how to learn so that I can learn the following better—currently diving into: 
     <ul>
       <li>Maching Learning</li>
-      <li>AI Engineering (Agentic Development)</li>
-      <li>Linear Algebra</li>
+      <li>AI Engineering</li>
       <li>Statistics & Probability</li>
-      <li>Somebody please give me a good reason to learn Calculus</li>
+      <li>somebody please give me a good reason to learn calculus</li>
     </ul>
 </ul>
 
